@@ -82,12 +82,6 @@ export const INDEX = [
           "Implementation of solution to image stacking and statistical blending.",
       },
       {
-        id: "image_libraries",
-        name: "Python Image Libraries",
-        description:
-          "Brief overview about some of the main python libraries that promote input and output of digital image files.",
-      },
-      {
         id: "radon_transform",
         name: "Radon Transform",
         description: "Overview and implementation of discrete Radon transform.",
@@ -211,12 +205,6 @@ export const INDEX = [
       "Implementation of key concepts and the main algorithms of <em>digital signal processing</em>.",
     notebooks: [
       {
-        id: "audio_libraries",
-        name: "Python Audio Libraries",
-        description:
-          "Brief overview about some of the main python libraries that promote input and output of digital audio files.",
-      },
-      {
         id: "instantaneous_frequency_FM",
         name: "Instantaneous Frequency",
         description:
@@ -248,61 +236,29 @@ export const INDEX = [
       },
     ],
   },
-  // ! High Performance Computing
+  // ! Tips & Tricks
   {
-    id: "high-performance-computing",
-    name: "High Performance Computing",
+    id: "tips-and-tricks",
+    name: "Tips & Tricks",
     description:
-      "Practices over high performance computing subjects such as parallel computing, gpu programming, code optimization and others.",
+      "<p>A gathering of <em>Tips &amp; Tricks</em> involving any supporting information for <em>computer vision</em> in general.</p>",
     notebooks: [
       {
         id: "basics_Numba",
         name: "Basics [Numba]",
-        description: "Basic functions and operations using Numba and Python.",
+        description:
+          "Basic functions and high performance operations using Numba and Python.",
       },
       {
         id: "basics_Cython",
         name: "Basics [Cython]",
-        description: "Basic functions and operations using Cython and Python.",
+        description:
+          "Basic functions and high performance operations using Cython and Python.",
       },
-      {
-        id: "basics_NumExpr",
-        name: "Basics [NumExpr]",
-        description: "Basic functions and operations using NumExpr and Python.",
-      },
-      {
-        id: "basics_F2PY",
-        name: "Basics [F2PY]",
-        description: "Basic functions and operations using F2PY and Python.",
-      },
-    ],
-  },
-  // ! Visualization Tools
-  {
-    id: "visualization-tools",
-    name: "Visualization Tools",
-    description:
-      "Practice and demonstration using the most popular data/scientific visualization tools and libraries.",
-    notebooks: [
       {
         id: "matplotlib_3D",
         name: "Matplotlib 3D",
         description: "Examples of 3D visualization using Matplotlib.",
-      },
-      {
-        id: "matplotlib_animation",
-        name: "Matplotlib Animation",
-        description: "Examples of animated visualization using Matplotlib.",
-      },
-      {
-        id: "matplotlib_charts",
-        name: "Matplotlib Charts",
-        description: "Examples of chart visualization using Matplotlib.",
-      },
-      {
-        id: "matplotlib_diagrams",
-        name: "Matplotlib Diagrams",
-        description: "Examples of diagram visualization using Matplotlib.",
       },
       {
         id: "matplotlib_figures",
@@ -310,9 +266,16 @@ export const INDEX = [
         description: "Examples of figure visualization using Matplotlib.",
       },
       {
-        id: "plotly_charts",
-        name: "Plotly Charts",
-        description: "Examples of chart visualization using Plotly.",
+        id: "audio_libraries",
+        name: "Python Audio Libraries",
+        description:
+          "Brief overview about some of the main python libraries that promote input and output of digital signal files.",
+      },
+      {
+        id: "image_libraries",
+        name: "Python Image Libraries",
+        description:
+          "Brief overview about some of the main python libraries that promote input and output of digital image files.",
       },
     ],
   },
