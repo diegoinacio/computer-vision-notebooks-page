@@ -6,7 +6,7 @@ export const HEADER = {
 export const INDEX = [
   // ! Computer Vision Fundamentals
   {
-    id: "computer-vision-fundamentals",
+    id: "Computer-Vision-Fundamentals",
     name: "Computer Vision Fundamentals",
     description:
       "Implementation of some key concepts and the main algorithms of <em>digital image processing</em> and <em>computer vision</em> from scratch.",
@@ -100,7 +100,7 @@ export const INDEX = [
   },
   // ! Computer Vision Experiments
   {
-    id: "computer-vision-experiments",
+    id: "Computer-Vision-Experiments",
     name: "Computer Vision Experiments",
     description:
       "Practical experiments and applications of <em>computer vision</em>.",
@@ -127,7 +127,7 @@ export const INDEX = [
   },
   // ! Mathematical Foundations
   {
-    id: "mathematical-foundations",
+    id: "Mathematical-Foundations",
     name: "Mathematical Foundations",
     description:
       "Main mathematical concepts and numerical methods applied to <em>computer vision</em>.",
@@ -168,7 +168,7 @@ export const INDEX = [
   },
   // ! Computer Graphics
   {
-    id: "computer-graphics",
+    id: "Computer-Graphics",
     name: "Computer Graphics",
     description:
       "Demonstrations and studies involving some quite important topics about <em>computer graphics</em>.",
@@ -199,7 +199,7 @@ export const INDEX = [
   },
   // ! Digital Signal Processing
   {
-    id: "digital-signal-processing",
+    id: "Digital-Signal-Processing",
     name: "Digital Signal Processing",
     description:
       "Implementation of key concepts and the main algorithms of <em>digital signal processing</em>.",
@@ -238,7 +238,7 @@ export const INDEX = [
   },
   // ! Tips & Tricks
   {
-    id: "tips-and-tricks",
+    id: "Tips-and-Tricks",
     name: "Tips & Tricks",
     description:
       "<p>A gathering of <em>Tips &amp; Tricks</em> involving any supporting information for <em>computer vision</em> in general.</p>",
