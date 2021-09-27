@@ -130,7 +130,7 @@ export const INDEX = [
     id: "Mathematical-Foundations",
     name: "Mathematical Foundations",
     description:
-      "Main mathematical concepts and numerical methods applied to <em>computer vision</em>.",
+      "Main mathematical concepts applied to <em>Computer Vision</em>.",
     notebooks: [
       {
         id: "calculus_fourier-series",
